@@ -1,4 +1,4 @@
-# SystemZarzadzaniaKonferencjami
+# System Zarzadzania Konferencjami
 # Opis problemu
 Projekt dotyczy systemu wspomagania działalności firmy organizującej konferencje:
 # Ogólne informacje
